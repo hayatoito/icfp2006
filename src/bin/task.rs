@@ -1,10 +1,10 @@
-extern crate regex;
-extern crate structopt;
+
+use structopt;
 #[macro_use]
 extern crate structopt_derive;
-extern crate icfp2006;
-extern crate loggerv;
-extern crate log;
+
+use loggerv;
+
 
 // use icfp2006::um;
 
