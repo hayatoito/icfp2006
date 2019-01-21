@@ -1,0 +1,10 @@
+howie
+xyzzy
+./adventure
+take pamphlet
+take manifesto
+go north
+take bolt
+take spring
+take button
+take processor

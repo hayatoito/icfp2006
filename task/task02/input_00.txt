@@ -1,0 +1,5 @@
+guest
+mail
+cd code
+ls
+cat hack.bas

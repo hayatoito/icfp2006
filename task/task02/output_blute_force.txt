@@ -1,0 +1,3342 @@
+try password: airplane
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: airplane
+ACCESS DENIED for user howie
+
+try password: alphabet
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: alphabet
+ACCESS DENIED for user howie
+
+try password: aviator
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: aviator
+ACCESS DENIED for user howie
+
+try password: bidirectional
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: bidirectional
+ACCESS DENIED for user howie
+
+try password: changeme
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: changeme
+ACCESS DENIED for user howie
+
+try password: creosote
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: creosote
+ACCESS DENIED for user howie
+
+try password: cyclone
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: cyclone
+ACCESS DENIED for user howie
+
+try password: december
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: december
+ACCESS DENIED for user howie
+
+try password: dolphin
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: dolphin
+ACCESS DENIED for user howie
+
+try password: elephant
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: elephant
+ACCESS DENIED for user howie
+
+try password: ersatz
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: ersatz
+ACCESS DENIED for user howie
+
+try password: falderal
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: falderal
+ACCESS DENIED for user howie
+
+try password: functional
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: functional
+ACCESS DENIED for user howie
+
+try password: future
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: future
+ACCESS DENIED for user howie
+
+try password: guitar
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: guitar
+ACCESS DENIED for user howie
+
+try password: gymnast
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: gymnast
+ACCESS DENIED for user howie
+
+try password: hello
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: hello
+ACCESS DENIED for user howie
+
+try password: imbroglio
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: imbroglio
+ACCESS DENIED for user howie
+
+try password: january
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: january
+ACCESS DENIED for user howie
+
+try password: joshua
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: joshua
+ACCESS DENIED for user howie
+
+try password: kernel
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: kernel
+ACCESS DENIED for user howie
+
+try password: kingfish
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: kingfish
+ACCESS DENIED for user howie
+
+try password: (b.bb)(v.vv)
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: (b.bb)(v.vv)
+ACCESS DENIED for user howie
+
+try password: millennium
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: millennium
+ACCESS DENIED for user howie
+
+try password: monday
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: monday
+ACCESS DENIED for user howie
+
+try password: nemesis
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: nemesis
+ACCESS DENIED for user howie
+
+try password: oatmeal
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: oatmeal
+ACCESS DENIED for user howie
+
+try password: october
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: october
+ACCESS DENIED for user howie
+
+try password: paladin
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: paladin
+ACCESS DENIED for user howie
+
+try password: pass
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: pass
+ACCESS DENIED for user howie
+
+try password: password
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: password
+ACCESS DENIED for user howie
+
+try password: penguin
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: penguin
+ACCESS DENIED for user howie
+
+try password: polynomial
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: polynomial
+ACCESS DENIED for user howie
+
+try password: popcorn
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: popcorn
+ACCESS DENIED for user howie
+
+try password: qwerty
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: qwerty
+ACCESS DENIED for user howie
+
+try password: sailor
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: sailor
+ACCESS DENIED for user howie
+
+try password: swordfish
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: swordfish
+ACCESS DENIED for user howie
+
+try password: symmetry
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: symmetry
+ACCESS DENIED for user howie
+
+try password: system
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: system
+ACCESS DENIED for user howie
+
+try password: tattoo
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: tattoo
+ACCESS DENIED for user howie
+
+try password: thursday
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: thursday
+ACCESS DENIED for user howie
+
+try password: tinman
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: tinman
+ACCESS DENIED for user howie
+
+try password: topography
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: topography
+ACCESS DENIED for user howie
+
+try password: unicorn
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: unicorn
+ACCESS DENIED for user howie
+
+try password: vader
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: vader
+ACCESS DENIED for user howie
+
+try password: vampire
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: vampire
+ACCESS DENIED for user howie
+
+try password: viper
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: viper
+ACCESS DENIED for user howie
+
+try password: warez
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: warez
+ACCESS DENIED for user howie
+
+try password: xanadu
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: xanadu
+ACCESS DENIED for user howie
+
+try password: xyzzy
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: xyzzy
+logged in as howie
+
+
+% 
+
+try password: zephyr
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: zephyr
+ACCESS DENIED for user howie
+
+try password: zeppelin
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: zeppelin
+ACCESS DENIED for user howie
+
+try password: zxcvbnm
+output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:00:00 1/1/19100
+Welcome to Universal Machine IX (UMIX).
+
+This machine is a shared resource. Please do not log
+in to multiple simultaneous UMIX servers. No game playing
+is allowed.
+
+Please log in (use 'guest' for visitor access).
+;login: howie
+password: zxcvbnm
+ACCESS DENIED for user howie
+
