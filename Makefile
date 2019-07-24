@@ -3,11 +3,11 @@
 # - http://www.boundvariable.org/
 # - http://www.boundvariable.org/task.shtml
 
-task00:
-	make -f task/task00/Makefile all
+task_00:
+	make -f task/task_00/Makefile all
 
-task01:
-	make -f task/task01/Makefile all
+task_01:
+	make -f task/task_01/Makefile all
 
-task02:
-	make -f task/task02/Makefile all
+task_02:
+	make -f task/task_02/Makefile all

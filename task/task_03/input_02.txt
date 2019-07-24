@@ -1,0 +1,43 @@
+howie
+xyzzy
+./adventure
+take pamphlet
+take manifesto
+go west
+take bullet-point
+take slides.ppt
+go east
+go north
+take bolt
+take spring
+combine slides.ppt with bullet-point
+take button
+incinerate manifesto
+take processor
+incinerate pamphlet
+take red pill
+incinerate pill
+take radio
+incinerate slides.ppt
+take cache
+combine processor with cache
+take blue transistor
+combine radio with transistor
+take antenna
+incinerate antenna
+take screw
+incinerate spring
+take motherboard
+combine motherboard with screw
+take A-1920-IXB
+combine A-1920-IXB with bolt
+combine A-1920-IXB with processor
+combine A-1920-IXB with radio
+take red transistor
+combine A-1920-IXB with transistor
+combine motherboard with A-1920-IXB
+take keypad
+combine keypad with button
+combine keypad with motherboard
+go south
+use keypad

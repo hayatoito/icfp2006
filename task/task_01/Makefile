@@ -1,4 +1,4 @@
-# Task01:: Run um with codex.um, and extract embennded um program
+# Task01:: Run um with codex.um, and extract embedded um program
 
 all: download run-codex prepare-input-file run-codex-with-input cut-codex-output
 
@@ -6,7 +6,7 @@ download:
 	curl -O http://www.boundvariable.org/codex.umz
 
 run-codex:
-	 cargo run --release --bin um -- codex.umz
+	 cargo run --release --bin my-icfp2006-um -- codex.umz
 
 # output:
 # self-check succeeded!
@@ -32,7 +32,7 @@ prepare-input-file:
 	echo p >> decryption.key
 
 run-codex-with-input:
-	cat decryption.key | cargo run --release --bin um -- codex.umz > codex.output
+	cat decryption.key | cargo run --release --bin my-icfp2006-um -- codex.umz > codex.output
 
 
 # > % wc codex.output

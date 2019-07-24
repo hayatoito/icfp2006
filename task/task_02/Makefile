@@ -7,7 +7,7 @@
 all: run
 
 run:
-	cargo run --release --bin um -- ../task01/main.um
+	cargo run --release --bin my-icfp2006-um -- ../task_01/main.um
 
 session-log:
 	echo "See log.txt"
@@ -15,7 +15,7 @@ session-log:
 
 run-with-input:
 	: # (cat ./input_00.txt; cat /dev/stdin) | cargo run --release --bin um -- ../task01/main.um
-	cat ./input_00.txt | cargo run --release --bin um -- ../task01/main.um > output_00.txt
+	cat ./input_00.txt | cargo run --release --bin my-icfp2006-um -- ../task_01/main.um > output_00.txt
 
 # Sample:
 # CCLXXX   words(XXXII) = "penguin"
@@ -24,7 +24,7 @@ extract-passowrd:
 	./extract_password.sh
 
 blute-force:
-	./blute_force.sh | tee output_blute_force.txt
+	bash ./blute_force.sh | tee output_blute_force.txt
 
 # => password: xyzzy
 
