@@ -1,57 +1,17 @@
 // use std::fs::File;
 
+// use crate::prelude::Result;
+
 use std::io::{Read, Write};
 use std::time::Instant;
 
 use log::*;
-
-// use failure::{Context, Fail};
-
-// #[derive(Debug)]
-// pub struct UmError {
-//     inner: Context<UmErrorKind>,
-// }
-
-// #[derive(Copy, Clone, Eq, PartialEq, Debug, Fail)]
-// pub enum UmErrorKind {
-//     // For example:
-//     #[fail(display = "No input error.")]
-//     NoInputError,
-//     // ...
-// }
-
-// impl std::fmt::Display for UmError {
-//     fn fmt(&self, f: &mut std::fmt::Formatter) -> std::fmt::Result {
-//         std::fmt::Display::fmt(&self.inner, f)
-//     }
-// }
-
-// impl From<UmErrorKind> for UmError {
-//     fn from(kind: UmErrorKind) -> UmError {
-//         UmError {
-//             inner: Context::new(kind),
-//         }
-//     }
-// }
-// impl Fail for UmError {
-//     fn cause(&self) -> Option<&Fail> {
-//         self.inner.cause()
-//     }
-
-//     fn backtrace(&self) -> Option<&failure::Backtrace> {
-//         self.inner.backtrace()
-//     }
-// }
 
 #[derive(Debug, PartialEq, Eq)]
 pub enum UmStatus {
     NoInput,
     Halt,
 }
-
-pub type Result<T> = std::result::Result<T, failure::Error>;
-// pub type Result<T> = std::result::Result<T, UmError>;
-// pub type UmResult = std::result::Result<UmStatus, failure::Error>;
 
 type Array = Vec<u32>;
 
@@ -239,13 +199,15 @@ impl Um {
 #[cfg(test)]
 mod tests {
     use super::*;
+    use crate::prelude::Result;
     use std::path::PathBuf;
 
     #[test]
     #[ignore]
     fn um_sandmark_benchmark() -> Result<()> {
         let dir = PathBuf::from(env!("CARGO_MANIFEST_DIR"));
-        let mut f = std::fs::File::open(dir.join("task/task_00/sandmark.umz")).unwrap();
+        let mut f = std::fs::File::open(dir.join("task/01_implement_um/sandmark.umz")).unwrap();
+        // let mut f = std::fs::File::open(dir.join("icfp2006/task/task_00/sandmark.umz")).unwrap();
         let mut code = Vec::new();
         f.read_to_end(&mut code).unwrap();
         let reader: [u8; 0] = [];
@@ -382,5 +344,4 @@ SANDmark complete.
         );
         Ok(())
     }
-
 }

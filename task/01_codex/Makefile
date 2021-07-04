@@ -6,7 +6,7 @@ download:
 	curl -O http://www.boundvariable.org/codex.umz
 
 run-codex:
-	 cargo run --release --bin my-icfp2006-um -- codex.umz
+	 cargo run --release -- um codex.umz
 
 # output:
 # self-check succeeded!
@@ -32,7 +32,7 @@ prepare-input-file:
 	echo p >> decryption.key
 
 run-codex-with-input:
-	cat decryption.key | cargo run --release --bin my-icfp2006-um -- codex.umz > codex.output
+	cat decryption.key | cargo run --release -- um codex.umz > codex.output
 
 
 # > % wc codex.output
@@ -61,7 +61,7 @@ run-codex-with-input:
 # ```
 
 cut-codex-output:
-	tail -c +$((0xc0 + 4)) codex.output > main.um
+	tail -c +$((0xc0 + 4)) codex.output > ../main.um
 
-# > % gmd5sum main.um
+# > % gmd5sum ../main.um
 # > 3ad5b7637df1c5f713689abcba2efff3  main.um

@@ -1,0 +1,1 @@
+(success (command (look (room (name "52nd Street and Blackstone Avenue")(description "You are standing at the corner of 52nd Street and Blackstone Avenue. From here, you can go east, south, or west. ")(items ((item (name "manual")(description redacted)(adjectives )(condition (pristine ))(piled_on )) ))))))

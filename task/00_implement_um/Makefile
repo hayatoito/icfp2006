@@ -6,4 +6,4 @@ download:
 	curl -O http://www.boundvariable.org/sandmark.umz
 
 benchmark:
-	cargo run --release --bin my-icfp2006-um -- ./sandmark.umz
+	cargo run --release -- um ./sandmark.umz
